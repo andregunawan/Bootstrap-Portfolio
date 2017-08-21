@@ -320,6 +320,12 @@ body {
     padding: 0px 40px;
 }
 
+.main img
+{
+    float: none;
+    margin: 0 auto;
+}
+
 .column-right
 {
     height: 150px;
