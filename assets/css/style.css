@@ -19,6 +19,7 @@ body {
     border-bottom:2px solid #cccccc;
     padding-top: 0;
     padding-bottom: 0;
+    margin-left: -31px;
 }
 
 .h1-custom
@@ -34,7 +35,7 @@ body {
 .nav
 {
     font-size: 16px;
-    padding-top: 12%;
+    padding-top: 5%;
 }
 
 .nav-link
@@ -109,7 +110,7 @@ body {
 
 .socmed
 {
-    padding-top: 10% !important;
+    padding-top: 8% !important;
 }
 
 .main-header2
@@ -263,6 +264,16 @@ body {
     margin: 0 16px 5px 0;
 }
 
+.main-header2
+{
+    padding: 5% 0;
+}
+
+.socmed
+{
+    padding-top: 10% !important;
+}
+
 .nav-link img
 {
     width: 50px;
@@ -299,7 +310,6 @@ body {
 {
     height: 100%;
     font-size: 30px;
-    padding-top: 2px;
     margin-left: -20px;
     width: 110%;
 }
@@ -324,6 +334,16 @@ body {
 {
     float: none;
     margin: 0 auto;
+}
+
+.main-header2
+{
+    padding: 5% 0;
+}
+
+.socmed
+{
+    padding-top: 10% !important;
 }
 
 .column-right
